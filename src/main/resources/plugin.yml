@@ -1,0 +1,10 @@
+name: FkUpdater
+version: 1.0.0
+author: Devsylone_Team
+authors: [Etrenak, fabulacraft]
+main: fr.devsylone.fkupdater.FkUpdater
+prefix: FKUpdater
+
+
+commands:
+ fkupdate:

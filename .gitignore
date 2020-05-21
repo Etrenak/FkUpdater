@@ -1,0 +1,10 @@
+*.class
+/bin/
+.classpath
+.project
+*.jar
+/.settings/
+/.idea/
+fallenkingdom.iml
+/target/
+/src/META-INF/
